@@ -1,0 +1,25 @@
+{
+  "name": "app-mongo",
+  "version": "1.0.0",
+  "description": "A test repo for node js and mongo",
+  "type":"module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahul-8000/node-app-mongo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahul-8000/node-app-mongo/issues"
+  },
+  "homepage": "https://github.com/rahul-8000/node-app-mongo#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2"
+  }
+}
